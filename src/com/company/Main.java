@@ -59,12 +59,13 @@ public class Main {
 
 //        String string1 = "mashu";
         String[] stringArray3 =
-                {"banana", "apple", "orange", "mango", "pineapple"};
-//       index :    0         1        2         3          4
+                {"banana", "apple", "orange", "mango", "pineapple", "avocado"};
+//       index :    0         1        2         3          4           5
 
         for (int i = 0; i < stringArray3.length; i++) {
             System.out.println(stringArray3[i]);
         }
+
 
 
 
