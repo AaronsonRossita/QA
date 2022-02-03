@@ -42,7 +42,7 @@ public class Main {
         String[] stringArray2 = {s1,s2};
 
 //        System.out.println(intArray[3]);
-
+//
 //          fori
 //              start    end    step
 //        for (int i = 0; i < 56; i++) {
@@ -62,9 +62,23 @@ public class Main {
                 {"banana", "apple", "orange", "mango", "pineapple", "avocado"};
 //       index :    0         1        2         3          4           5
 
-        for (int i = 0; i < stringArray3.length; i++) {
-            System.out.println(stringArray3[i]);
-        }
+//        for (int i = 0; i < stringArray3.length; i++){
+//            System.out.println(stringArray3[i]);
+//        }
+//
+        //[banana, apple, orange, mango, pineapple, avocado]
+//
+//        System.out.print("[");
+//        for (int i = 0; i < stringArray3.length; i++) {
+//            if (i == stringArray3.length - 1) {
+//                System.out.print(stringArray3[i]);
+//            } else {
+//                System.out.print(stringArray3[i] + ", ");
+//            }
+//        }
+//        System.out.print("]");
+
+
 
 
 
@@ -141,6 +155,19 @@ public class Main {
 //        }else{
 //            System.out.println("smaller than seven");
 //        }
+//       foreach
+        for (String s : stringArray3){
+            System.out.println(s);
+        }
+
+        for (int number : intArray) {
+            System.out.println(number);
+        }
+
+
+
+
+
 
     }
 
