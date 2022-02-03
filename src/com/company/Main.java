@@ -77,17 +77,7 @@ public class Main {
 //            }
 //        }
 //        System.out.print("]");
-
-
-
-
-
-
-
-
-
-
-
+//
 //        for (int i = 0; i <= 4; i++) {
 //            System.out.println(intArray[i]);
 //        }
@@ -95,11 +85,6 @@ public class Main {
 //        for (int i = 4; i >= 0; i--) {
 //            System.out.println(intArray[i]);
 //        }
-
-
-
-
-
 //
 //      sout
 //        System.out.println("main");
